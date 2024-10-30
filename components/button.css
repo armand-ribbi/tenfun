@@ -1,0 +1,9 @@
+.btn-blue{
+ 	display: inline-block;  
+ 	padding: 14px 21px;  
+  	background-color: rgb(40,45,105); 
+ 	border-radius: 5px;
+ 	margin: 160px auto;
+  	text decoration:none;
+	color: yellow; 
+  }

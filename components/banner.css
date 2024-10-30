@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(./../images/background.jpeg);
+  background-size: cover;     
+  background-position: center;
+}
+
+.banner h1 {
+  color: yellow;
+  font-size: 50px;
+  text-align:center;
+}
+.banner h2 {
+  font-family: 'Lora', serif;
+  font-size: 27px;
+  margin: 20px;
+  padding-left:110px;
+  color:ghostwhite;
+  opacity: 0,1;
+}
